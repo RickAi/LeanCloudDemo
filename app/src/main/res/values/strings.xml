@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LeanDemo</string>
+
+    <string name="hello_world">Lean Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="pleaseInputPhoneNum">请输入您的手机号</string>
+    <string name="sendVerifySms">发送验证码</string>
+    <string name="pleaseInputVerifyCode">请输入验证码</string>
+    <string name="ok">确定</string>
+    <string name="sendSucceed">发送成功</string>
+    <string name="badNetwork">网络差</string>
+    <string name="verifyFailed">验证失败</string>
+    <string name="verifySucceed">验证成功</string>
+    <string name="sendFailed">发送失败</string>
+    <string name="title_activity_forget_password">ForgetPasswordActivity</string>
+</resources>
